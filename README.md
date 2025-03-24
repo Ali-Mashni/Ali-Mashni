@@ -23,12 +23,12 @@ I am a software engineering student passionate about **coding**, **cybersecurity
 - SQL  
 - HTML5 / CSS / JavaScript  
 
-**Libraries / Frameworks:**  
-- scikit-learn  
+**Libraries / Frameworks:**    
 - ReactJS  
 - Spring Boot  
 - Node.js  
-
+- scikit-learn
+  
 **Developer Tools:**  
 - Git  
 - Postman  
