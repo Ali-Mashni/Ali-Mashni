@@ -1,15 +1,17 @@
 # Hi 👋 I'm Ali Mashni
 
 💫 **About Me**  
-I am a software engineering student passionate about **coding**, **cybersecurity**, and **building robust applications**. I'm particularly efficient in **Java** and have hands-on experience with **machine learning**, **network analysis**, and containerization using **Docker**.
+I’m a software engineering student with a passion for **coding**, **cybersecurity**, and building **robust backend systems**. I primarily work with **Node.js** and **MongoDB**, and I’m also experienced in **Java**. I enjoy exploring topics like **machine learning**, **network analysis**, and secure application development.
+
 
 ---
 
 ## 🚀 What I'm Up To
-- 🤖 Improving my **machine learning** skills with **scikit-learn**.
-- 💻 Building backend services with **Spring Boot** and **PostgreSQL**.
-- ⚙️ Experimenting with **Docker** to containerize my applications.
-- 🕵️‍♂️ Sharpening my **network analysis** skills using **Wireshark, Necto, and Burp Suite**.
+- 💻 Building backend services with **Node.js** and **MongoDB**  
+- 🤖 Exploring **machine learning** using **scikit-learn**  
+- 🕵️‍♂️ Sharpening my **network analysis** skills using **Wireshark, Necto, and Burp Suite**  
+- ⚙️ Occasionally experimenting with **Docker** to containerize my apps  
+- 📚 Learning more about other backend stacks like **Spring Boot** and **PostgreSQL**
 
 [Check out my coding portfolio!](https://ali-mashni.github.io/Portfolio-website/)
 
@@ -24,15 +26,20 @@ I am a software engineering student passionate about **coding**, **cybersecurity
 - HTML5 / CSS / JavaScript  
 
 **Libraries / Frameworks:**    
-- ReactJS  
-- Spring Boot  
+- ReactJS
 - Node.js  
+- Spring Boot   
 - scikit-learn
   
 **Developer Tools:**  
 - Git  
 - Postman  
 - Wireshark
+
+**Databases:**  
+- MongoDB  
+- PostgreSQL
+- MySQL
 
 **Infrastructure / Cloud:**  
 - Docker  
