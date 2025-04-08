@@ -1,12 +1,12 @@
-# Hi 👋 I'm Ali Mashni
+# Hi I'm Ali Mashni
 
-💫 **About Me**  
+ **About Me**  
 I’m a software engineering student with a passion for **coding**, **cybersecurity**, and building **robust backend systems**. I primarily work with **Node.js** and **MongoDB**, and I’m also experienced in **Java**. I enjoy exploring topics like **machine learning**, **network analysis**, and secure application development.
 
 
 ---
 
-## 🚀 What I'm Up To
+##  What I'm Up To
 - 💻 Building backend services with **Node.js** and **MongoDB**  
 - 🤖 Exploring **machine learning** using **scikit-learn**  
 - 🕵️‍♂️ Sharpening my **network analysis** skills using **Wireshark, Necto, and Burp Suite**  
