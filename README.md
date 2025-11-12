@@ -13,14 +13,14 @@ I’m a software engineering student with a passion for **coding**, **cybersecur
 - ⚙️ Occasionally experimenting with **Docker** to containerize my apps  
 - 📚 Learning more about other backend stacks like **Spring Boot** and **PostgreSQL**
 
-[Check out my coding portfolio!](https://ali-mashni.github.io/Portfolio-website/)
+
 
 ---
 
 ## 💻 Tech Stack
 
 **Languages:**  
-- **Java** (high proficiency)  
+- Java 
 - Python  
 - SQL  
 - HTML5 / CSS / JavaScript  
@@ -50,4 +50,4 @@ I’m a software engineering student with a passion for **coding**, **cybersecur
 ## 🌐 Connect with Me
 - **Email:** [mashnialii@gmail.com](mailto:mashnialii@gmail.com)
 
-Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to collaborate or just chat about tech!
+Feel free to explore my repositories, and don’t hesitate to reach out
