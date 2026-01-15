@@ -1,53 +1,50 @@
 # Hi I'm Ali Mashni
 
  **About Me**  
-I’m a software engineering student with a passion for **coding**, **cybersecurity**, and building **robust backend systems**. I primarily work with **Node.js** and **MongoDB**, and I’m also experienced in **Java**. I enjoy exploring topics like **machine learning**, **network analysis**, and secure application development.
+Software Engineering student at KFUPM (Cybersecurity). I build secure, maintainable systems and like work that sits at the intersection of **software engineering**, **security**, and **real-world tooling**.
 
-
----
-
-##  What I'm Up To
-- 💻 Building backend services with **Node.js** and **MongoDB**  
-- 🤖 Exploring **machine learning** using **scikit-learn**  
-- 🕵️‍♂️ Sharpening my **network analysis** skills using **Wireshark, Necto, and Burp Suite**  
-- ⚙️ Occasionally experimenting with **Docker** to containerize my apps  
-- 📚 Learning more about other backend stacks like **Spring Boot** and **PostgreSQL**
-
-
+- Interests: secure software development, penetration testing, network/security monitoring, applied cryptography, and blockchain systems
+- Approach: clean architecture, automation/CI, and measurable outcomes (tests, logs, reproducibility)
 
 ---
 
-## 💻 Tech Stack
+## What I’m working on
 
-**Languages:**  
-- Java 
-- Python  
-- SQL  
-- HTML5 / CSS / JavaScript  
-
-**Libraries / Frameworks:**    
-- ReactJS
-- Node.js  
-- Spring Boot   
-- scikit-learn
-  
-**Developer Tools:**  
-- Git  
-- Postman  
-- Wireshark
-
-**Databases:**  
-- MongoDB  
-- PostgreSQL
-- MySQL
-
-**Infrastructure / Cloud:**  
-- Docker  
-- AWS / Azure  
+- **Security engineering practice (hands-on):** pen testing labs, web security, network analysis, and defensive hardening with clear writeups and evidence
+- **PrivPrompt (Private AI Session Firewall):** MV3 extension → local proxy → dashboard for redaction, blocking policies, and local observability (JSONL + metrics)
+- **Attack & Defense Security Lab:** end-to-end workflow (recon → exploit → SIEM analysis → mitigation) with Splunk detections and hardening recommendations
+- **Applied blockchain systems:** Solidity smart contracts + testnet deployments + transaction verification (Etherscan) and QR-based verification flows
+- **Professional baseline:** finishing **Security+** and consolidating core domains (network security, IAM, incident response, security operations)
+- **Engineering discipline:** clean architecture, automated tests, CI/CD pipelines, and containerized development for reproducible projects
 
 ---
 
-## 🌐 Connect with Me
-- **Email:** [mashnialii@gmail.com](mailto:mashnialii@gmail.com)
+## Tech stack
 
-Feel free to explore my repositories, and don’t hesitate to reach out
+**Languages**
+- Python, Java, JavaScript/TypeScript, SQL, C/C++
+
+**Security & Networking**
+- Wireshark, Burp Suite, OWASP ZAP  
+- SIEM: Splunk (searches/dashboards, basic detections)  
+- Common tooling: Nmap, Metasploit (lab environments)
+
+**Backend & APIs**
+- FastAPI, Node.js/Express  
+- Testing + automation mindset (unit tests, CI workflows)
+
+**Data & Databases**
+- PostgreSQL, MySQL, SQL Server, MongoDB
+
+**DevOps / Tooling**
+- Git, GitHub Actions, Docker (and container-first workflows)
+
+**Blockchain**
+- Solidity, Ethereum testnets (Sepolia), contract interaction + transaction verification
+
+---
+
+## Contact
+
+- Email: [mashnialii@gmail.com](mailto:mashnialii@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ali-mashni-a80933357/)
