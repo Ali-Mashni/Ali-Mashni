@@ -1,12 +1,3 @@
-# Hi I'm Ali Mashni
-
- **About Me**  
-Software Engineering student at KFUPM (Cybersecurity). I build secure, maintainable systems and like work that sits at the intersection of **software engineering**, **security**, and **real-world tooling**.
-
-- Interests: secure software development, penetration testing, network/security monitoring, applied cryptography, and blockchain systems
-- Approach: clean architecture, automation/CI, and measurable outcomes (tests, logs, reproducibility)
-
----
 
 ## What I’m working on
 
