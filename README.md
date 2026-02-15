@@ -1,37 +1,30 @@
 
-## What I’m working on
+## Software Engineering × Cybersecurity
 
-- **Security engineering practice (hands-on):** pen testing labs, web security, network analysis, and defensive hardening with clear writeups and evidence
-- **PrivPrompt (Private AI Session Firewall):** MV3 extension → local proxy → dashboard for redaction, blocking policies, and local observability (JSONL + metrics)
-- **Attack & Defense Security Lab:** end-to-end workflow (recon → exploit → SIEM analysis → mitigation) with Splunk detections and hardening recommendations
-- **Applied blockchain systems:** Solidity smart contracts + testnet deployments + transaction verification (Etherscan) and QR-based verification flows
-- **Professional baseline:** finishing **Security+** and consolidating core domains (network security, IAM, incident response, security operations)
-- **Engineering discipline:** clean architecture, automated tests, CI/CD pipelines, and containerized development for reproducible projects
+Engineering-first background in software development with a concentration in cybersecurity. 
 
----
+### Focus areas
+- Secure software development (threat modeling mindset, secure patterns, and safer-by-default implementations)
+- Web and application security testing (validation, exploitation in lab setups, and remediation-oriented notes)
+- Defensive monitoring and detection (log analysis, basic detection logic, dashboards)
+- Cryptography & blockchain (applied crypto concepts, smart contracts, and verification flows)
+- Data privacy (privacy-aware design choices and data handling practices)
 
-## Tech stack
+### Tools I’m comfortable with 
+- **Web/AppSec:** Burp Suite, OWASP ZAP, ffuf
+- **Network/Security testing:** Nmap, Wireshark, Metasploit (lab environments)
+- **Host/AD & assessment:** BloodHound, LinPEAS (as needed)
+- **Monitoring/SIEM:** Splunk (searches, dashboards, basic detections)
+- **Engineering:** Docker, Linux, Git/GitHub, CI workflows
 
-**Languages**
-- Python, Java, JavaScript/TypeScript, SQL, C/C++
+### Tech stack
+- **Languages:** Python, Java, JavaScript, SQL, C/C++, Solidity
+- **Backend & APIs:** FastAPI, Node.js/Express
+- **Databases:** PostgreSQL, MySQL, SQL Server, MongoDB
 
-**Security & Networking**
-- Wireshark, Burp Suite, OWASP ZAP  
-- SIEM: Splunk (searches/dashboards, basic detections)  
-- Common tooling: Nmap, Metasploit (lab environments)
-
-**Backend & APIs**
-- FastAPI, Node.js/Express  
-- Testing + automation mindset (unit tests, CI workflows)
-
-**Data & Databases**
-- PostgreSQL, MySQL, SQL Server, MongoDB
-
-**DevOps / Tooling**
-- Git, GitHub Actions, Docker (and container-first workflows)
-
-**Blockchain**
-- Solidity, Ethereum testnets (Sepolia), contract interaction + transaction verification
+### Exploring
+- Post-quantum cryptography (PQC) and the math foundations needed to reason about it
+- Security of serverless and modern cloud-native application patterns
 
 ---
 
