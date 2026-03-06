@@ -29,6 +29,4 @@ Engineering-first background in software development with a concentration in cyb
 ---
 
 ## Contact
-
-- Email: [mashnialii@gmail.com](mailto:mashnialii@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ali-mashni-a80933357/)
